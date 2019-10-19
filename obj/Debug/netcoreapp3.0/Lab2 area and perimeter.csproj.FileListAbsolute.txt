@@ -1,0 +1,22 @@
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.exe
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.deps.json
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.runtimeconfig.json
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.dll
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.pdb
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.AssemblyInfo.cs
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.dll
+C:\Users\gilki\source\repos\Lab2 area and perimeter\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.pdb
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.exe
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.deps.json
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.runtimeconfig.json
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.dll
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\bin\Debug\netcoreapp3.0\Lab2 area and perimeter.pdb
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.AssemblyInfo.cs
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.dll
+C:\Users\gilki\source\repos\Lab2area\Lab2 area and perimeter\obj\Debug\netcoreapp3.0\Lab2 area and perimeter.pdb
