@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter\\Lab2 area and perimeter.csproj": {}
+    "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter\\Lab2 area and perimeter.csproj": {
+    "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter\\Lab2 area and perimeter.csproj",
+        "projectUniqueName": "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter.csproj",
         "projectName": "Lab2 area and perimeter",
-        "projectPath": "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter\\Lab2 area and perimeter.csproj",
+        "projectPath": "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter.csproj",
         "packagesPath": "C:\\Users\\gilki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gilki\\source\\repos\\Lab2area\\Lab2 area and perimeter\\obj\\",
+        "outputPath": "C:\\Users\\gilki\\source\\repos\\Lab2area\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

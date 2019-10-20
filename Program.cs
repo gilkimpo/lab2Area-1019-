@@ -6,68 +6,64 @@ namespace Lab2_area_and_perimeter
     {
         static void Main(string[] args)
         {
-            
-            double length, width,  height;
+
+            double width, height, length;
             string input;
             do
-            {
+            {                              
+                Console.WriteLine("So you're gonna want some classroom dimensions? Cool, first enter the room's width (as a number!)");
+                width = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("\nNow enter the room's length, please (also as a number only!)");
+                length = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("\nGo ahead and enter the room's height (if it isn't obvious, i need a number only!)");
+                    height = Convert.ToDouble(Console.ReadLine());
+                    Console.WriteLine("\nYou've got it crankin, cuz your VOLUME is " + (height*width));
+                              
+                                             
+                
+                Console.WriteLine("\nYour room's AREA is " + length * width);
+
+                Console.WriteLine("\nYour room's PERIMETER is " + (length + width) * 2);
+
                 do
                 {
-                    Console.WriteLine("So you're gonna want some classroom dimensions? Cool, first enter the room's width (as a number!)");
-                    width = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("");
+                    Console.WriteLine("\nYou wanna do this again? answer 'y' or 'n' ");
+                    input = Console.ReadLine();
 
-                    Console.WriteLine("Now enter the room's length, please (also as a number only!)");
-                    length = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("");
-
-                    Console.WriteLine("And now enter the room's height (if it isn't obvious, i need a number only!)");
-                    height = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("");
-
-                    Console.WriteLine("Your room's area is " + length * width);
-                    Console.WriteLine("");
-                    Console.WriteLine("Your room's perimeter is " + (length * width) * 2);
-                    Console.WriteLine("");
-                    Console.WriteLine("The volume of your room is " + (length * height * width));
-                    Console.WriteLine("");
-                    do
+                    if (input == "n")
                     {
-                        
-                        Console.WriteLine("You wanna do this again? answer 'y' or 'n' ");
-                        input = Console.ReadLine();
-                        Console.WriteLine("");
-                        if (input == "n")
-                        {
-                            Console.WriteLine("Well have a good night!");
-                            return;
-                        }
-                        else if (input == "y") 
-                        {
-                            Console.WriteLine("ok, cool.  enter a number");
-                        }
-                        else
-                        {
-
-                            Console.WriteLine("you've entered something else. please try again");
-                        }
+                        Console.WriteLine("\nWell, have a good night!");
+                        return;
                     }
-                    while (input != "y");
+                    else if (input == "y")
+                    {
+                        Console.WriteLine("OK, cool. Let's begin again");
+                    }
+                    else
+                    {
+                        Console.WriteLine("You've entered something else. Please try again");
+                    }
                 }
                 while (input != "y");
             }
-            while (input=="y");
-            
-
-                
+            while (input == "y");
+        
 
 
 
 
-            
 
 
 
-        }
+
+
+
+
+
+
+
+            }       
     }
 }
