@@ -21,7 +21,7 @@ namespace Lab2_area_and_perimeter
                 
                     Console.WriteLine("\nGo ahead and enter the room's height (if it isn't obvious, i need a number only!)");
                     height = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("\nYou've got it crankin, cuz your VOLUME is " + (length *height * width));
+                    Console.WriteLine("\nYou've got it crankin, cuz your room's VOLUME is " + (length *height * width));
                        
                                              
                 
@@ -33,7 +33,7 @@ namespace Lab2_area_and_perimeter
                 do
                 {
                     Console.WriteLine("\nYou wanna do this again? answer 'y' or 'n' ");
-                    input = Console.ReadLine();
+                    input = Console.ReadLine().ToLower();
 
                     if (input == "n")
                     {
