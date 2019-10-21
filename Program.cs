@@ -17,16 +17,19 @@ namespace Lab2_area_and_perimeter
                 Console.WriteLine("\nNow enter the room's length, please (also as a number only!)");
                 length = Convert.ToDouble(Console.ReadLine());
 
-                Console.WriteLine("\nGo ahead and enter the room's height (if it isn't obvious, i need a number only!)");
+               
+                
+                    Console.WriteLine("\nGo ahead and enter the room's height (if it isn't obvious, i need a number only!)");
                     height = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("\nYou've got it crankin, cuz your VOLUME is " + (height*width));
-                              
+                    Console.WriteLine("\nYou've got it crankin, cuz your VOLUME is " + (length *height * width));
+                       
                                              
                 
                 Console.WriteLine("\nYour room's AREA is " + length * width);
 
                 Console.WriteLine("\nYour room's PERIMETER is " + (length + width) * 2);
 
+                
                 do
                 {
                     Console.WriteLine("\nYou wanna do this again? answer 'y' or 'n' ");
